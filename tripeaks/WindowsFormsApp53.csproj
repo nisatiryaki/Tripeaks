@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D37E1B44-C846-4B42-848C-1BDA1BFF4D5D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp53</RootNamespace>
+    <AssemblyName>WindowsFormsApp53</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\10.jpg" />
+    <Content Include="Resources\2.jpg" />
+    <None Include="Resources\204.jpeg" />
+    <None Include="Resources\204_2.jpg" />
+    <Content Include="Resources\3.jpg" />
+    <Content Include="Resources\4.jpg" />
+    <Content Include="Resources\5.jpg" />
+    <Content Include="Resources\6.jpg" />
+    <Content Include="Resources\7.jpg" />
+    <Content Include="Resources\8.jpg" />
+    <Content Include="Resources\9.jpg" />
+    <None Include="Resources\a.jpg" />
+    <None Include="Resources\a1.jpg" />
+    <Content Include="Resources\arkası.jpg" />
+    <None Include="Resources\Mavi Cesur Minimalist Oyun Arayüzü Instagram Gönderisi %281%29.jpg" />
+    <None Include="Resources\Mavi Cesur Minimalist Oyun Arayüzü Instagram Gönderisi %281%291.jpg" />
+    <None Include="Resources\Mavi Cesur Minimalist Oyun Arayüzü Instagram Gönderisi %281%292.jpg" />
+    <None Include="Resources\Mavi Cesur Minimalist Oyun Arayüzü Instagram Gönderisi %281%293.jpg" />
+    <None Include="Resources\Mavi Cesur Minimalist Oyun Arayüzü Instagram Gönderisi %281%294.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %282%29.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %283%29.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %282%291.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %283%291.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %281%29.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %283%292.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %281%291.jpg" />
+    <None Include="Resources\Blue Orange Modern Abstract Playful Memory Game Presentation %282%292.jpg" />
+    <None Include="Resources\b.jpeg" />
+    <Content Include="Resources\mavi1.jpg" />
+    <Content Include="Resources\mavi10.jpg" />
+    <Content Include="Resources\mavi2.jpg" />
+    <Content Include="Resources\mavi3.jpg" />
+    <Content Include="Resources\mavi4.jpg" />
+    <Content Include="Resources\mavi5.jpg" />
+    <Content Include="Resources\mavi6.jpg" />
+    <Content Include="Resources\mavi7.jpg" />
+    <Content Include="Resources\mavi8.jpg" />
+    <Content Include="Resources\mavi9.jpg" />
+    <None Include="Resources\Mor siyah Uzay Yıldızlar Arkaplan Masaüstü Duvar Kağıdı.jpg" />
+    <None Include="Resources\Mor siyah Uzay Yıldızlar Arkaplan Masaüstü Duvar Kağıdı %281%29.jpg" />
+    <Content Include="Resources\mor1.jpg" />
+    <Content Include="Resources\mor10.jpg" />
+    <Content Include="Resources\mor2.jpg" />
+    <Content Include="Resources\mor3.jpg" />
+    <Content Include="Resources\mor4.jpg" />
+    <Content Include="Resources\mor5.jpg" />
+    <Content Include="Resources\mor6.jpg" />
+    <Content Include="Resources\mor7.jpg" />
+    <Content Include="Resources\mor8.jpg" />
+    <Content Include="Resources\mor9.jpg" />
+    <None Include="Resources\WhatsApp Image 2022-12-20 at 21.29.05.jpeg" />
+    <None Include="Resources\Renkli Çıkartmalar ve Rozetler Hafıza Oyunu Eğlenceli Sunum - Kopya - Kopya.jpg" />
+    <None Include="Resources\WhatsApp Image 2022-12-20 at 21.29.051.jpeg" />
+    <None Include="Resources\WhatsApp Image 2022-12-25 at 01.53.10.jpeg" />
+    <None Include="Resources\WhatsApp Image 2022-12-25 at 02.03.10.jpeg" />
+    <None Include="Resources\Puan tablosu rank star rank game oyuncu sıralama %284%29.jpg" />
+    <None Include="Resources\Sarı Yeşil Mavi Dijitalizm Temel Sade Sunum.jpg" />
+    <None Include="Resources\Sarı Yeşil Mavi Dijitalizm Temel Sade Sunum %281%29.jpg" />
+    <None Include="Resources\Sarı Yeşil Mavi Dijitalizm Temel Sade Sunum %281%291.jpg" />
+    <None Include="Resources\Sarı Yeşil Mavi Dijitalizm Temel Sade Sunum1.jpg" />
+    <None Include="Resources\WhatsApp Image 2022-12-25 at 15.50.04.jpeg" />
+    <None Include="Resources\Sarı Yeşil Mavi Dijitalizm Temel Sade Sunum %281%29 %281%29.jpg" />
+    <Content Include="Resources\y1.jpg" />
+    <Content Include="Resources\y10.jpg" />
+    <Content Include="Resources\y2.jpg" />
+    <Content Include="Resources\y3.jpg" />
+    <Content Include="Resources\y4.jpg" />
+    <Content Include="Resources\y5.jpg" />
+    <Content Include="Resources\y6.jpg" />
+    <Content Include="Resources\y7.jpg" />
+    <Content Include="Resources\y8.jpg" />
+    <Content Include="Resources\y9.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,84 @@
+C:\Users\ASUS\source\repos\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\ASUS\source\repos\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.exe
+C:\Users\omerb\Desktop\WindowsFormsApp553 - Kopya\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\enn sonn\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\enson\enson\WindowsFormsApp53 - Kopya\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\bin\Debug\WindowsFormsApp53.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\bin\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\bin\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.exe
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form2.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form3.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form4.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form5.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form6.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form7.resources
+C:\Users\ASUS\OneDrive\Masaüstü\tripeaks\obj\Debug\WindowsFormsApp53.Form8.resources
